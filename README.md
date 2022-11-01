@@ -2,7 +2,7 @@
 link to projects done on google colab (python) 
 
 
-## SMILE - machine learning to recognize if an individual is smiling or not based on photos:
+### SMILE - machine learning to recognize if an individual is smiling or not based on photos:
 
 https://colab.research.google.com/drive/1v0ekS1a8yxXIH6cv65WGNMOLigIUbQxq?usp=sharing
 
